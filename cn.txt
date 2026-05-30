@@ -1,8 +1,3 @@
-*.bilibili.com
 bilibili.com
-cn.bing.com
-*.unity.cn
 unity.cn
-*.163.com
 163.com
-*163.cn
